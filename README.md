@@ -54,7 +54,7 @@ After successful login of student, can perform the following operations:
 
  The code has been uploaded to my git repository:
 
-    https://github.com/zhreyaa/software_systems/tree/master/SS-Miniproject-master
+    https://github.com/zhreyaa/Miniproject
 
 > The client-server socket uses 12345 port number
 
